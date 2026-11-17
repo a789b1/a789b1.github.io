@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://a789b1.github.io/sitemap.xml
 Sitemap: https://cdn.jsdelivr.net/gh/a789b1/a789b1.github.io@main/sitemap.xml
